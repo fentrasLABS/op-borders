@@ -8,7 +8,8 @@ Helpful for imitating arbitrary resolutions like 4:3 without stretching your res
 * Order (overlay under the in-game UI)
 
 ## Download
-You can download the plugin through [OpenPlanet.nl](https://openplanet.nl/files/)
+Currently you can download the plugin only on _Releases_ page.
+Later it will be released on the official plugins page.
 
 ## Screenshots
 
