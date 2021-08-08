@@ -1,0 +1,8 @@
+[meta]
+name     = "Borders"
+author   = "DergnNamedSkye"
+category = "Overlay"
+version  = "0.1"
+
+[script]
+imports  = ["Icons.as"]
