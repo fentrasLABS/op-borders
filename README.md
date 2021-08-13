@@ -16,3 +16,7 @@ Later it will be released on the official plugins page.
 ![](_git/1.png)
 ![](_git/2.png)
 ![](_git/3.png)
+
+## Credits
+
+Project icon provided by [Fork Awesome](https://forkaweso.me/)
