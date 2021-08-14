@@ -8,8 +8,8 @@ Helpful for imitating arbitrary resolutions like 4:3 without stretching your res
 * Order (overlay under the in-game UI)
 
 ## Download
-Currently you can download the plugin only on _Releases_ page.
-Later it will be released on the official plugins page.
+* [OpenPlanet](https://openplanet.nl/files/118)
+* [Releases](https://gitlab.com/DergnNamedSkye/op-borders/-/releases)
 
 ## Screenshots
 
