@@ -55,7 +55,7 @@ bool IsPlaying()
 	auto gameTerminal = playgroundSM.GameTerminals[0];
 
 	// Sequence (MediaTracker) checks
-	if (gameTerminal.UISequence_Current != CGameTerminal::ESGamePlaygroundUIConfig__EUISequence::Playing) {
+	if (gameTerminal.UISequence_Current != SGamePlaygroundUIConfig::EUISequence::Playing) {
 		return false;
 	}
 
